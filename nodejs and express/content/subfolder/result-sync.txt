@@ -1,0 +1,1 @@
+this is the result of : hello this the first text  and : hello this the second text this is the result of : hello this the first text  and : hello this the second text 

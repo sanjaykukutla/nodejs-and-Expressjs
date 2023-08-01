@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0"
+  },
+  "name": "javascript_assignments",
+  "version": "1.0.0",
+  "main": "1.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
